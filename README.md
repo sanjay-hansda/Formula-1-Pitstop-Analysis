@@ -6,7 +6,6 @@ This notebook will explore F1 pit stop data and gain a better understanding of h
 # Questions I want to answer:
 
 How did pit stop durations change over time?
-
 Is there a relationship between pit stop durations and constructor?
 
 Is there a relationship between pit stop durations and race circuit?
