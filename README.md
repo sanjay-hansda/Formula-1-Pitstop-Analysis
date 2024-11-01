@@ -1,5 +1,6 @@
 # Formula-1-Pitstop-Analysis
-![image](https://github.com/user-attachments/assets/5ac3e782-a88b-4ab3-98a4-e9a1aab0a63c)
+![image](https://github.com/user-attachments/assets/8b888581-96e1-4b68-9e60-9b84f4f3e1db)
+
 
 
 # Objective
